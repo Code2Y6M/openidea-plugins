@@ -1,0 +1,6 @@
+repository = "https://github.com/Code2Y6M/gitee-plugin"
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/Code2Y6M/gitee-plugin/releases/download/v0.1.0/code2y6m.gitee-plugin-0.1.0.oiplugin"
+sha256 = "91509d64f32bba5a8d5b22b9400b461edd97bf66b98973270508c74c73c9ddb5"
