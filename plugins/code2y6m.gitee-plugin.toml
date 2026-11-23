@@ -6,6 +6,6 @@ package = "https://github.com/Code2Y6M/gitee-plugin/releases/download/v0.1.1/cod
 sha256 = "ac57ce268404e35da7dac206a5e48ce287411be2db0335876495cfe823010468"
 
 [[versions]]
-version = "1.0.1"
-package = "https://github.com/Code2Y6M/gitee-plugin/releases/download/v1.0.1/code2y6m.gitee-plugin-1.0.1.oiplugin"
-sha256 = "47ddc068e3698a7bb4fa1715424262ff99118afc29115ffa3ccd79f0bbcef88d"
+version = "1.0.2"
+package = "https://github.com/Code2Y6M/gitee-plugin/releases/download/v1.0.2/code2y6m.gitee-plugin-1.0.2.oiplugin"
+sha256 = "cb3aa9b9575582ef211dccd98fa2f268d856f05c3838d3871eb344688f4022f3"
