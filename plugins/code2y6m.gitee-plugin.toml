@@ -3,4 +3,4 @@ repository = "https://github.com/Code2Y6M/gitee-plugin"
 [[versions]]
 version = "0.1.1"
 package = "https://github.com/Code2Y6M/gitee-plugin/releases/download/v0.1.1/code2y6m.gitee-plugin-0.1.1.oiplugin"
-sha256 = "ca300dd1ffd15491a17aa594afe850ecc0dc0c859c829145c2069d6ac0adfcf3"
+sha256 = "c57e2c1e7367a34817154b6f9ba6c3c22c7a412badbd76ca7ef94b24dcd9e37f"
